@@ -1,41 +1,36 @@
 # Starbucks-Salse-Analysis
-![Starbucks Logo](https://github.com/user-attachments/assets/fb8a069e-e032-43b8-b735-1f79e41935e0)
+![Starbucks Logo](https://github.com/user-attachments/assets/a1e75348-a9bd-49b4-af97-d426defe7313)
 
-Overview :
-
+## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
-Tool used :
+## Tool used :
+![microsoft-excel (1)](https://github.com/user-attachments/assets/bc336b6d-761c-44cb-9ae0-5f4d5965fa4b)
 
-![microsoft-excel](https://github.com/user-attachments/assets/2141ab6d-9ac7-4ee1-ab2e-d68a3e74a14b)
+## Result and Insights :
+- I have noticed that the Revenue is continuously growing.
+- The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
+- The busiest hours are in the mornings when people are visiting their offices.
+- This trend is similar for all the stores.
+- The top category is coffee and the product is Barista Espresso across the board.
 
-Result and Insights :
+## Additional Insights
+- We can see a continuous growth in revenue which indicates increasing popularity and success of the business
+- We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
+- This could be due to the  holiday season and we should be prepared for this trend next year
+- Resource management for peak months
 
-I have noticed that the Revenue is continuously growing.
-
-The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
-
-The busiest hours are in the mornings when people are visiting their offices.
-
-This trend is similar for all the stores.
-
-The top category is coffee and the product is Barista Espresso across the board.
+![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
 
 
-Additional Insights:
-
-We can see a continuous growth in revenue which indicates increasing popularity and success of the business
-We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
-This could be due to the holiday season and we should be prepared for this trend next year
-Resource management for peak months
-
-Data Story :
-
+## Data Story :
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
-Dashboard :
+## Dashboard :
+![final dashboard](https://github.com/user-attachments/assets/e675ffbe-76a0-4c1e-a788-615d2de2433a)
 
-![final dashboard](https://github.com/user-attachments/assets/60ccd886-c1d4-41c0-a0a9-d1fdea5a3491)
+
+
 
 
 
